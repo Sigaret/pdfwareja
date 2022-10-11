@@ -1,0 +1,400 @@
+/* Nav  */
+.navbar-brand{
+    font-size: 27px;  
+    font-family: Viga;
+}
+
+.nav-item{
+    font-size: 18px;    
+    font-weight: 900;
+}
+
+/* My Color */
+.orange{
+  color: #FF9636;
+}
+.scallop{
+  color : #e4d7d0;
+}
+
+.tealgreen{
+  color : #4b8378 !important;
+}
+
+.navyblue{
+  color : #0a4158;
+}
+
+/* Jarak */
+.jarak{
+  margin-top:60px ;
+}
+
+/* Btn */
+
+.btn-navy {
+  color: #212529;
+  background-color: #0a4158;
+  border-color: #0a4158; }
+  .btn-navy:hover {
+    color: rgb(255, 255, 255);
+    background-color: #092c3b;
+    border-color: #092c3b;; }
+  .btn-navy:focus, .btn-navy.focus {
+    box-shadow: 0 0 0 0.2rem rgba(9, 107, 235, 0.37); }
+  .btn-navy.disabled, .btn-navy:disabled {
+    color: #212529;
+    background-color: #0a4158;
+    border-color: #0a4158; }
+  .btn-navy:not(:disabled):not(.disabled):active, .btn-navy:not(:disabled):not(.disabled).active,
+  .show > .btn-navy.dropdown-toggle {
+    color: #fff;
+    background-color: #092c3b;
+    border-color: #092c3b; }
+    .btn-navy:not(:disabled):not(.disabled):active:focus, .btn-navy:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-navy.dropdown-toggle:focus {
+      box-shadow: 0 0 0 0.2rem rgba(9, 107, 235, 0.37); }
+
+.btn-outline-navy {
+  color: #0a4158;
+  background-color: transparent;
+  background-image: none;
+  border-color: #0a4158; }
+  .btn-outline-navy:hover {
+    color: #FFFFFF;
+    background-color: #0a4158;
+    border-color: #0a4158; }
+  .btn-outline-navy:focus, .btn-outline-navy.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 222, 3, 0.5); }
+  .btn-outline-navy.disabled, .btn-outline-navy:disabled {
+    color: #0a4158;
+    background-color: transparent; }
+  .btn-outline-navy:not(:disabled):not(.disabled):active, .btn-outline-navy:not(:disabled):not(.disabled).active,
+  .show > .btn-outline-navy.dropdown-toggle {
+    color: #212529;
+    background-color: #0a4158;
+    border-color: #0a4158; }
+    .btn-outline-navy:not(:disabled):not(.disabled):active:focus, .btn-outline-navy:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-outline-warning.dropdown-toggle:focus {
+      box-shadow: 0 0 0 0.2rem rgba(255, 222, 3, 0.5); }   
+
+/* Btn-Tealgreen */
+.btn-outline-greenteal {
+  color: #000000;
+  background-color: transparent;
+  background-image: none;
+  border-color: #4b8378; }
+  .btn-outline-greenteal:hover {
+    color: #FFFFFF;
+    background-color: #4b8378;
+    border-color: #4b8378; }
+  .btn-outline-greenteal:focus, .btn-outline-greenteal.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 222, 3, 0.5); }
+  .btn-outline-greenteal.disabled, .btn-outline-greenteal:disabled {
+    color: #4b8378;
+    background-color: transparent; }
+  .btn-outline-greenteal:not(:disabled):not(.disabled):active, .btn-outline-greenteal:not(:disabled):not(.disabled).active,
+  .show > .btn-outline-greenteal.dropdown-toggle {
+    color: #ffffff;
+    background-color: #4b8378;
+    border-color: #4b8378; }
+    .btn-outline-greenteal:not(:disabled):not(.disabled):active:focus, .btn-outline-greenteal:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-outline-warning.dropdown-toggle:focus {
+      box-shadow: 0 0 0 0.2rem rgba(255, 222, 3, 0.5); }   
+      
+      
+
+.btn-outline-orange {
+  color: #ff9636;
+  background-color: transparent;
+  background-image: none;
+  border-color: #ff9636; }
+  .btn-outline-orange:hover {
+    color: #FFFFFF;
+    background-color: #ff9636;
+    border-color: #ff9636; }
+  .btn-outline-orange:focus, .btn-outline-orange.focus {
+    box-shadow: 0 0 0 0.2rem rgba(255, 222, 3, 0.5); }
+  .btn-outline-orange.disabled, .btn-outline-orange:disabled {
+    color: #ff9636;
+    background-color: transparent; }
+  .btn-outline-orange:not(:disabled):not(.disabled):active, .btn-outline-orange:not(:disabled):not(.disabled).active,
+  .show > .btn-outline-orange.dropdown-toggle {
+    color: #212529;
+    background-color: #ff9636;
+    border-color: #ff9636; }
+    .btn-outline-orange:not(:disabled):not(.disabled):active:focus, .btn-outline-orange:not(:disabled):not(.disabled).active:focus,
+    .show > .btn-outline-warning.dropdown-toggle:focus {
+      box-shadow: 0 0 0 0.2rem rgba(255, 222, 3, 0.5); }  
+
+     
+      /*  */
+.badge-info {
+  color: #ffffff;
+  background-color: #10658a; }
+  .badge-info[href]:hover, .badge-info[href]:focus {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #083649; }      
+
+
+      
+.jbtop{
+  margin-top: 135px ;
+}
+
+.atas{
+  margin-top: 130px;
+}
+
+/* Top View */
+
+.top{
+  margin-top: 50px;
+}
+
+/* Form Upload */
+
+.box-upload{
+  box-shadow: 0 3px 30px rgba(0, 0, 0, 0.1); 
+  border-radius: 10px; 
+  margin-top: 130px;
+  background-color: #FFFFFF;
+  padding: 30px ;  
+}
+
+
+/* babges */
+
+.hv:hover{
+  color: white !important;
+}
+
+/* Modals */
+.nav-tabs .nav-link{
+  color: #ff9636;
+}
+
+.info-panel{
+  box-shadow: 0 3px 30px rgba(0, 0, 0, 0.1); 
+  border-radius: 10px; 
+  margin-top: 50px;
+  background-color: white;
+  padding: 30px ;
+}
+
+.info-panel img {
+  /* width: 130px; */
+  height: 200px;
+  /* margin-right: 20px; */
+  border: solid #c4dbe0;
+}
+
+.info-panel h4{
+  font-size: 16px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 5px;
+  
+}
+
+.info-panel label{
+  font-size: 13px;
+}
+
+.info-panel p{
+  font-size: 14;
+  color: black;
+  margin-top: -5px;
+  font-weight: 200;    
+  text-align: justify;
+  }
+
+  /* Profile */
+  .box-profile img {
+    /* width: 130px; */
+    height: 200px;
+    /* margin-right: 20px; */
+    border: solid #c4dbe0;
+  }
+
+  .box-profile{
+    box-shadow: 0 3px 30px rgba(0, 0, 0, 0.1); 
+    border-radius: 10px; 
+    margin-top: 130px;
+    background-color: #FFFFFF;
+    padding: 30px ;  
+  }
+
+  .box-profile .row{
+    padding-top: 20px;
+  }
+  
+  .box-profile .row a{
+    text-decoration:none;
+  }
+  
+  
+
+/* Border input */
+.ipcyan:focus {
+  color: #495057;
+  background-color: rgb(95, 90, 90);
+  border-color: #35bdff;
+  background-color: #fff;
+  outline: 0;
+  box-shadow: 0 0 0 0.2rem rgba(80, 44, 108, 0.25); }
+
+
+/* Search Input */
+.iput[type="text"] {
+    width: 400px;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  .iput[type="text"]:focus {
+    border-color: dodgerBlue;
+    box-shadow: 0 0 8px 0 dodgerBlue;
+  }
+  
+  .inputWithIcon .iput[type="text"] {
+    padding-left: 40px;
+  }
+  
+  .inputWithIcon {
+    position: relative;
+  }
+  
+  .inputWithIcon i {
+    position: absolute;
+    left: 1;
+    top: 12px;
+    padding: 2px 9px;
+    color: #aaa;
+    transition: 0.3s;
+  }
+  
+  .inputWithIcon .iput[type="text"]:focus + i {
+    color: dodgerBlue;
+  }
+
+  /* Search Box user */
+  .iput-user[type="text"] {
+    width: 370px;
+    border: 2px solid #aaa;
+    border-radius: 4px;
+    margin: 8px 0;
+    outline: none;
+    padding: 8px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  .iput-user[type="text"]:focus {
+    border-color: dodgerBlue;
+    box-shadow: 0 0 8px 0 dodgerBlue;
+  }
+  
+  .inputWithIcon .iput-user[type="text"] {
+    padding-left: 40px;
+  }
+  
+  .inputWithIcon {
+    position: relative;
+  }
+  
+  .inputWithIcon i {
+    position: absolute;
+    left: 1;
+    top: 12px;
+    padding: 2px 9px;
+    color: #aaa;
+    transition: 0.3s;
+  }
+  
+  .inputWithIcon .iput-user[type="text"]:focus + i {
+    color: dodgerBlue;
+  }
+
+  /* Jarak Top D & V */
+  .jtop{
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+
+
+  /* Footer */
+  .sticky{
+    flex-shrink: none;
+  }
+
+  /* PDF Viewer */
+  .pdfobject-container {
+    height: 1300px ;
+    width: 100% ;
+    border: 1rem solid rgba(0,0,0,.1) !;
+   }
+
+   .pdf-jarak{
+     margin-top: 15px;
+   }
+
+  /* Utilty */
+  body{
+    background-color: #ECF3FF;
+    /* EAE7DC */
+}
+
+.bg-mint{
+  background-color: white;   
+}
+
+.mt-profile{
+  margin-top: 130px;
+}
+
+/* Mobile Version */
+@media (max-width: 575.98px) {
+    .iput[type="text"] {
+        width: 100%;
+        border: 2px solid #aaa;
+        border-radius: 4px;
+        margin: 8px 0;
+        outline: none;
+        padding: 8px;
+        box-sizing: border-box;
+        transition: 0.3s;
+      }
+
+      .info-panel img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;  
+        margin-bottom: 20px ;
+        border: solid #e2ded0;
+      }
+
+      .pdfobject-container {
+        height: 410px ;
+        width: 100% ;
+        border: 1rem solid rgba(0,0,0,.1) ;
+        position: relative;
+        display: block;
+        padding: 0;
+        overflow: hidden;
+       }
+    
+       .display-2{
+        font-weight: 300;
+        line-height: 1.2;
+        font-size: 60px;
+        color:#FFFFFF;
+       }
+}
